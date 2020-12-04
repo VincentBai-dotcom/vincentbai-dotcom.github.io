@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "Clip 2"
+subtitle:   " Modulate between different parallel modes"
+author:     "Vincent"
+header-style: text
+tags:
+    - 音乐
+    - Meta
+    - 原创
+---
+
+![图1](/img/clip2/2-1.png)
+![图2](/img/clip2/2-2.png)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/937509514%3Fsecret_token%3Ds-m8YfE1DMslQ&color=%23302519&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/vincent-bai-975723344" title="Vincent Bai" target="_blank" style="color: #cccccc; text-decoration: none;">Vincent Bai</a> · <a href="https://soundcloud.com/vincent-bai-975723344/clip-2/s-m8YfE1DMslQ" title="clip 2" target="_blank" style="color: #cccccc; text-decoration: none;">clip 2</a></div>
