@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "Clip 1"
-subtitle:   " 我的第一首原创"
 author:     "Vincent"
 header-style: text
 tags:

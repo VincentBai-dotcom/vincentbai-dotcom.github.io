@@ -2,7 +2,7 @@
 layout:     post
 title:      "The use of diminished seventh chord, how it helps justify the use of tritone subsitution, 
 and their implications."
-subtitle:   " 乐理上的发现"
+subtitle:   " 乱 七 八 糟"
 date:       2020-12-01 12:00:00
 author:     "Vincent"
 header-img: "img/diminished-seventh/bg.jpg"

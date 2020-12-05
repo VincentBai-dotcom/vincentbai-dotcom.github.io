@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "Clip 2"
-subtitle:   " Modulate between parallel modes"
 author:     "Vincent"
 header-style: text
 tags:
