@@ -1,0 +1,88 @@
+---
+layout:     post
+title:      "The Unique Character of American Food"
+subtitle:   "How would you define American food? "
+date:       2021-4-28 12:00:00
+author:     "Vincent"
+header-img: "img/food-bg.jpg"
+catalog: true
+---
+
+# What Is It?
+How would you define American food? 
+
+The answer to this question is not a simple one. Food is an important aspect of culture. Though after the Age of Discovery, people from different countries started to exchange their unique ingredients, the way people handle and consume those ingredients varies. 
+![food](/img/food-2.jpg)
+> Stir Fry
+
+For example, while the cooking technique of stir frying, which is frying ingredients in a small amount of oil in a wok, originated in China, Peruvians are known for inventing Ceviche, a dish made from raw fish and refreshing juices, which later became popular in South America (Jaine). 
+
+![food](/img/food-1.jpg)
+> Ceviche
+
+It is these differences of how people treat food that forms a country’s food culture. However, when talking about American food culture, the definition could be ambiguous. As a country built by immigrants, each one would bring their own food culture, and incorporate them into the American food culture as a whole. Among them, the most popular are Italian, Mexican, and Chinese food. The question is then, how do we define American food? Is it just a collection of food from other countries stitched together, or does it have a unique character that distinguishes itself from the others? Personally, I lean towards the later.
+
+---
+
+# Americanized Food
+
+Foremost, the existence of Americanized food itself is a unique element of American food culture. One of the most signature dishes is the controversial pineapple pizza.   
+
+![food](/img/food-3.jpg) ![food](/img/food-4.jpg)
+On the top is the picture of pineapple, or Hawaiian pizza, and on the bottom is the authentic pizza margherita. 
+
+Though invented in Canada, Hawaiian pizza has been crowned as “America’s Favorite Pizza” (Grubhub). On the other hand, it is also astonishing of how some people have hated it. In fact, the president of Iceland claimed that he would ban pineapple pizza if he had the power (Strunk). Regardless, its popularity justifies its value. 
+
+![food](/img/food-5.jpg)
+> Orange Chiken
+
+In addition, the relationship between Americanized food and authentic food is not always necessary opposed to each other. Take myself as an example. While I majorly consume authentic Chinese food, I also enjoy Americanized Chinese dishes like Orange Chicken and General Tso’s Chicken. To people from other cultures, Americanized Chinese food is a great way to experience unfamiliar flavor. To me, Americanized Chinese food is a harmless second option. Such modified dishes are unique in American food, so we may take them as a unique character. 
+
+---
+
+# Ingredients
+
+![food](/img/food-6.jpg)
+> A picture taken at a Chinese restaurant while I travelled to Boston.
+
+Not only that, the flavor of a dish does not only come from methods of cooking, but also from the quality of ingredients. A restaurant could copy cooking techniques and methods to make authentic food, but the origin of ingredients may be different. 
+
+For example, the authentic Beijing Roast Duck uses Beijing white duck, which is exclusive to Beijing, so it’s hard to experience its authentic taste in anywhere else than Beijing even with the right methods. One may use other type of duck for replacement, but the taste would have subtle differences. This may not be a bad thing, however, as it allows for more taste experiments unavailable before. 
+
+![food](/img/food-7.jpg)
+> A picture taken at Szechuan Mountain House, one of the most popular authentic Chinese restaurants in the NYU’s international Chinese community.
+
+In fact, one of my friends reflect that authentic Chinese restaurants in Manhattan taste even better than those in China, simply because beef produced in America has a better quality. In this sense, every food in America can be seen as Americanized food, because of the adoption of different ingredients. 
+
+---
+
+# More Than Just Food...
+
+The value of food was not only reflected by the food itself, but so also by its story. After all, food is made by and for ourselves, so it’s our right to define the meaning of food. 
+
+In “Nothing Is More American Than Chinese Food on Chrismas,” the author Lilian Li, a child of a Chinese immigrant family, recounts the history of Chinese restaurants in America and her own experience. The early years was marked by the Chinese Exclusion Act, which called for a boycott against Chinese restaurants. Nevertheless, such act was ineffective, because many white women and African Americans came here to avoid racial and gender expectation. Chinese restaurants are also known for never closing on Christmas, which attracts countless Jewish family to come. For this reason, Lilian argues, “Chinese restaurants have managed to become as culturally American as milk and cookies for Santa.” 
+
+![food](/img/food-8.jpg)
+
+This argument sheds me new light on how to understand American food. It’s true that America has many distinct food cultures, and that they seem to be not fitted with each other, but that’s not the whole story. As time goes, as the interaction of people and those food become part of American history, it becomes an eternity. 
+
+After the children of those Jewish families grow up, they may not go to Chinese restaurants, or love Chinese food anymore, but the memory persists. Every Christmas, when they reminisce about the past, they would think of Chinese restaurants, and therefore they become an imperishable part of the images that vaguely appear in memory. As Lilian points out, there are over 40000 Chinese restaurants in United States, so they live in not just one or two, but in the memory of innumerable population of America. 
+
+Not just Chinese food, no matter it’s Italian, Mexican, Japanese, Korean, they all stand for their own place in the memory of American people. From this angle, food of different cultures are not isolated entities, but a unified collection that is unique to America. 
+
+---
+# To Sum It Up 
+
+American food does have its place as a unique culture, for it integrates the taste, cooking techniques, and ingredients from other cultures, and for it brings those unfamiliar culture into our memory. Pretty much just like the country itself: there are collisions when different cultures merge, but more is the new options and creations. 
+
+
+## Works Cited
+"stir-fry." The Oxford Companion to Food, edited by Tom Jaine, Oxford University Press, Inc., 3rd edition, 2014. Credo Reference, http://proxy.library.nyu.edu/login?url=https://search.credoreference.com/content/entry/oupof/stir_fry/0?institutionId=577. Accessed 28 Apr. 2021.
+
+Jaine, Tom. "Peru." The Oxford Companion to Food, edited by Tom Jaine, Oxford University Press, Inc., 3rd edition, 2014. Credo Reference, http://proxy.library.nyu.edu/login?url=https://search.credoreference.com/content/entry/oupof/peru/0?institutionId=577. Accessed 28 Apr. 2021. 
+
+Taste of 2020. blog.grubhub.com/taste-of. 
+
+Strunk, Delaney. “If He Had His Way, Iceland's President Would Ban Pineapple Pizza.” CNN, Cable News Network, 21 Feb. 2017, www.cnn.com/travel/article/iceland-president-pineapple-pizza-ban-trnd/index.html. 
+
+Li, L. (2018, December 25). Nothing is more American than Chinese food on Christmas. Retrieved April 28, 2021, from https://www.nytimes.com/2018/12/25/opinion/christmas-chinese-food.html
