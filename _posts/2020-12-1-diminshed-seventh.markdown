@@ -169,8 +169,6 @@ The result of the experiment is as follow:
 
 Note that the B<sup>7</sup> can be interpreted as a burrowed chord from parallel natrual minor and the F<sup>7</sup> can be seen as a secondary dominant that resolves to the sixth, and we are using the tonic to replace the sixth since they have lots of notes in common.
 
-The most important is that, **they all sound very good.**
-
 **END.**
 
 ---
@@ -181,9 +179,7 @@ The most important is that, **they all sound very good.**
 
 这是目前为止，我写的篇幅最长，最费力的文章。字儿本身可能不太多，但是每张图都要找很久。要是想借图，那得注意copyright。要是自己作图，就要用专门的音乐软件把曲子写出来，然后以图片的形式导出，再放进对应的folder里。音频文件则是要upload到一个第三方平台上，然后在用这个平台的embedded feature把code嵌入到源代码。要是想微微改动，那以上的流程就要重新再走一遍。以此反复，感觉自己就跟《变形记》里的主角一样。
 
-不过我很爽很满足，so it pays off.
-
-虽然写了很多东西看上去挺高深，但是都只是我作为一个业余爱好者的短见。若是一个专业的音乐生来读，恐怕能指出这篇文许许多多的漏洞。若是真的有，请务必告知。
+虽然写了很多东西，但是都只是我作为一个业余爱好者的课余所学。若是一个专业的音乐生来读，恐怕能指出这篇文许许多多的漏洞。若是真的有，请务必告知。
 
 
 
@@ -192,7 +188,7 @@ The most important is that, **they all sound very good.**
 
 
 
- 
+
 
 
 
