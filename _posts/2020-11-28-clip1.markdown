@@ -1,12 +1,10 @@
 ---
-layout:     post
-title:      "Clip 1"
-author:     "Vincent"
+layout: post
+title: "Clip 1"
+author: "Vincent"
 header-style: text
 tags:
-    - 音乐
-    - Meta
-    - 原创
+  - Music
 ---
 
 ![图1](/img/clip1/1-1.png)
