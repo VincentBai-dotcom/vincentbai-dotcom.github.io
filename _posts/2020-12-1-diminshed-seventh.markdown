@@ -11,8 +11,6 @@ tags:
     - Music Theory
 ---
 
-> Note: This post is for those who possess the basics of music theory. 或者您还可以读[**后记**](#epi)
-
 # 1. The diminished seventh chord
 
 ### Introduction
